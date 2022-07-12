@@ -9,7 +9,8 @@ Using keras I contructed 4 layer neural network with 100 epochs for training it.
 I have obtained results with
 
 <p align="center">
-**Train Score**:
+
+ **Train Score**
  
 MSE: 0.00019 , RMSE: 0.01
  
